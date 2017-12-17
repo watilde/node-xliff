@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/watilde/node-xliff/issues"
   },
-  "homepage": "https://github.com/watilde/node-xliff#readme"
+  "homepage": "https://github.com/watilde/node-xliff#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
 }
